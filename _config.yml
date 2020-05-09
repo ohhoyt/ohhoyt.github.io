@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+title: Biopragmatics
+author: Olivia Halliday Hoyt
+email: hoyt.o@northeastern.edu
+description: >
+  Understanding the Microbiome in Immunology
+twitter_username: OliviaHoyt1
+github_username:  ohhoyt
+linkedin_username: ohhoyt
+theme: minimal
+plugins:
+- jekyll-feed
+- jekyll-sitemap
