@@ -11,7 +11,7 @@ then that biochemistry isn’t really just a mix of biology and chemistry,
 but I’ve come to love it all the same. I ended up at Northeastern University 
 in Boston, where I’ve been exposed to many different research projects through 
 various talks. During my first semester I took a Biological Inquiries class 
-focused on Genetics and Genomics with Phyllis Strauss that opened my eyes to 
+focused on genetics and genomics with the late Prof. Phyllis Strauss that opened my eyes to 
 how scientific research was a complex web that was never truly finished.
 
 In the spring of 2019, I started my first co-op experience (i.e., full-time,
