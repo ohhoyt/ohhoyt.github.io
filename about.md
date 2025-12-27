@@ -15,7 +15,7 @@ focused on Genetics and Genomics with Phyllis Strauss that opened my eyes to
 how scientific research was a complex web that was never truly finished.
 
 In the spring of 2019, I started my first co-op experience (i.e., full-time,
-6 month internship between semesters) at the Merck Exploratory Science Center 
+6 month internship between semesters) at the [Merck Exploratory Science Center](https://www.merck.com/) 
 in Cambridge, MA. There I worked on early research for a possible treatment of
 Inflammatory Bowel Disease, research that I was very interested in due to family 
 history. My role was to explore the functional role of non-coding RNAs in 
@@ -24,7 +24,7 @@ mechanism using chemical biology tools. As my first true research experience, I
 gained a wide perspective on innovative scientific collaboration and the pharmaceutical 
 research pipeline.
 
-In the spring of 2020, I began my second co-op at Indigo Agriculture as a plant
+In the spring of 2020, I began my second co-op at [Indigo Agriculture](https://www.indigoag.com/) as a plant
 microbiologist. I wanted to try a different field in industry, and Indigo’s mission 
 and research opportunities fascinated me. I was originally responsible for creating 
 axenic cultures of mycorrhizal fungi in order to test the effects of mycorrhiza on plant 
@@ -44,6 +44,6 @@ Through clinical research, I learned that I loved working with patients and teac
 After working with research participants and shadowing Physician Assistants, I decided to pursue a career as a Physician Assistant (PA). I finished my final prerequisite science classes at Massachusetts
 College of Pharmacy and Health Sciences to improve my background knowledge in healthcare. 
 I chose this professional path because I thrive in a problem solving and systems-based learning environment. 
-I am excited about the opportunities and challenges that lie ahead in my journey to becoming a Physician Assistant and I am committed to making a positive impact on the lives of 
-patients.
+I am excited about the opportunities and challenges that lie ahead in my journey to becoming a Physician Assistant at Wake Forest University and I am committed to making a positive impact on the lives
+of patients.
 
