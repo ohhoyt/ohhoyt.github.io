@@ -40,9 +40,10 @@ I set up and was the lead coordinator for the [Investigating Dupilumab's Effect 
 study, recruiting 18+ patients for the study. I was the secondary then lead cooordinator for the [Severe Asthma Research Program 4 (SARP4)](http://www.severeasthma.org/), 
 completing recruitment for the longitudinal study. I also had the opportunity to present original research at CHEST 2023 using data from the SARP3 study.
 
-Through clinical research, I learned that I love working with patients and teaching them more about their conditions and medications.
-After working with research participants and shadowing physician assistants, I have decided to pursue a career as a physician assistant. I am now finishing my final prerequisite science classes to 
-improve my background knowledge in healthcare. I chose this professional path because I thrive in a problem solving and systems-based learning environment, and I am confident I will excel in the mid-
-level provider model. I am excited about the opportunities and challenges that lie ahead in my journey to becoming a physician assistant and I am committed to making a positive impact on the lives of 
+Through clinical research, I learned that I loved working with patients and teaching them more about their conditions and medications.
+After working with research participants and shadowing Physician Assistants, I decided to pursue a career as a Physician Assistant (PA). I finished my final prerequisite science classes at Massachusetts
+College of Pharmacy and Health Sciences to improve my background knowledge in healthcare. 
+I chose this professional path because I thrive in a problem solving and systems-based learning environment. 
+I am excited about the opportunities and challenges that lie ahead in my journey to becoming a Physician Assistant and I am committed to making a positive impact on the lives of 
 patients.
 
